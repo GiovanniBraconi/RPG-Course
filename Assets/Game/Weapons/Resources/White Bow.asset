@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3f49e18a0d2d245a095e311f6de82f, type: 3}
+  m_Name: White Bow
+  m_EditorClassIdentifier: 
+  animatorOverride: {fileID: 22100000, guid: 2198399f76ee67542b23a132324d62a1, type: 2}
+  equippedPrefab: {fileID: 8325104586905839988, guid: 852831867bb94124da393d346d72a51c, type: 3}
+  weaponDamage: 5
+  percentageBonus: 0
+  weaponRange: 20
+  isRightHanded: 0
+  projectile: {fileID: 8360741857566358451, guid: 76ae2716928e00a44b2a1bf72ae77e82, type: 3}
